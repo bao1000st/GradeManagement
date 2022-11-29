@@ -1,0 +1,5 @@
+{"_id":{"$oid":"6382e81c534881686efc1fd1"},"name":"do nguyen thi thuy duy","email":"duy@gmail.com","phone":9.391224987E+09,"__v":0}
+{"_id":{"$oid":"6382fdc57e3e3419bff0a8e5"},"name":"huynh thai bao","email":"bao@gmail.com","phone":123456798,"__v":0}
+{"_id":{"$oid":"638463cbf9303fbef5250530"},"name":"nguyen van a","email":"a123@gmail.com","phone":369784512,"__v":0}
+{"_id":{"$oid":"638463daf9303fbef5250533"},"name":"le van b","email":"b456@gmail.com","phone":939789123,"__v":0}
+{"_id":{"$oid":"63846409f9303fbef5250537"},"name":"nguyen van teo","email":"teo@gmail.com","phone":987623112,"__v":0}

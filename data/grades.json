@@ -1,0 +1,15 @@
+{"_id":{"$oid":"6384214ae1beb8080c09abde"},"studentId":"6382fdc57e3e3419bff0a8e5","name":"huynh thai bao","course":"Sinh học","score":8,"__v":0}
+{"_id":{"$oid":"63842155e1beb8080c09abe5"},"studentId":"6382fdc57e3e3419bff0a8e5","name":"huynh thai bao","course":"Văn học","score":10,"__v":0}
+{"_id":{"$oid":"63842169e1beb8080c09abf4"},"studentId":"6382fdc57e3e3419bff0a8e5","name":"huynh thai bao","course":"Toán học","score":10,"__v":0}
+{"_id":{"$oid":"63843395e1beb8080c09ac34"},"studentId":"6382e81c534881686efc1fd1","name":"do nguyen thi thuy duy","course":"Sinh học","score":10,"__v":0}
+{"_id":{"$oid":"6384339ce1beb8080c09ac3a"},"studentId":"6382e81c534881686efc1fd1","name":"do nguyen thi thuy duy","course":"Văn học","score":10,"__v":0}
+{"_id":{"$oid":"638433a3e1beb8080c09ac40"},"studentId":"6382e81c534881686efc1fd1","name":"do nguyen thi thuy duy","course":"Toán học","score":10,"__v":0}
+{"_id":{"$oid":"63846423f9303fbef5250542"},"studentId":"638463cbf9303fbef5250530","name":"nguyen van a","course":"Sinh học","score":9,"__v":0}
+{"_id":{"$oid":"6384642cf9303fbef5250548"},"studentId":"638463cbf9303fbef5250530","name":"nguyen van a","course":"Toán học","score":10,"__v":0}
+{"_id":{"$oid":"63846432f9303fbef525054e"},"studentId":"638463cbf9303fbef5250530","name":"nguyen van a","course":"Văn học","score":6,"__v":0}
+{"_id":{"$oid":"6384643af9303fbef5250554"},"studentId":"638463daf9303fbef5250533","name":"le van b","course":"Sinh học","score":7.9,"__v":0}
+{"_id":{"$oid":"63846443f9303fbef525055a"},"studentId":"638463daf9303fbef5250533","name":"le van b","course":"Toán học","score":9.6,"__v":0}
+{"_id":{"$oid":"6384644df9303fbef5250560"},"studentId":"638463daf9303fbef5250533","name":"le van b","course":"Văn học","score":5.5,"__v":0}
+{"_id":{"$oid":"63846459f9303fbef525056e"},"studentId":"63846409f9303fbef5250537","name":"nguyen van teo","course":"Sinh học","score":10,"__v":0}
+{"_id":{"$oid":"63846460f9303fbef5250574"},"studentId":"63846409f9303fbef5250537","name":"nguyen van teo","course":"Toán học","score":7.6,"__v":0}
+{"_id":{"$oid":"6384646af9303fbef525057a"},"studentId":"63846409f9303fbef5250537","name":"nguyen van teo","course":"Văn học","score":4.5,"__v":0}
